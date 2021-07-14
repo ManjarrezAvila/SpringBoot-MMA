@@ -6,12 +6,9 @@ Spring boot is a proyect that is part of Spring core. The principal goal in Spri
 
 ## Dependencies
 
-1. [Java SE Development Kit 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-2. [Maven](https://maven.apache.org/download.cgi)
-3. [Tomcat](https://tomcat.apache.org/download-90.cgi)
-4. [OmniDB](https://www.omnidb.org/en/)
-5. [Docker Desktop](https://www.docker.com/products/docker-desktop)
-6. [Spring Tools 4](https://spring.io/tools)
+1. [JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+2. [IntelliJ IDEA](https://www.jetbrains.com/idea/download)
+3. [Postman](https://www.postman.com/downloads/)
 
 ## Challenges
 
