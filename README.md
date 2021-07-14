@@ -13,8 +13,24 @@ Spring boot is a proyect that is part of Spring core. The principal goal in Spri
 ## Challenges
 
 **Exercise 1**
-This exercise ask you to .
+This exercise ask you to write dependencies with their own implementations and autowired them in other layer.
 
 **Exercise 1 Output**
 
-![Alt text](http://i..png?raw=true "JavaHome")
+![Alt text](http://i.imgur.com/C9J0alf.png?raw=true "autowired")
+
+**Exercise 2**
+This exercise ask you to set up the *UserPojo* properties
+
+**Exercise 2 Output**
+
+![Alt text](http://i.imgur.com/QpFGOHt.png?raw=true "pojo")
+
+
+**Exercise 3**
+This exercise ask you to modify the log in the class *Application*
+
+**Exercise 3 Output**
+
+![Alt text](http://i.imgur.com/RUFLuor.png?raw=true "pojo")
+
